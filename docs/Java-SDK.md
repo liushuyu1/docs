@@ -20,17 +20,17 @@ Depending on the build tool, use the following methods to add related dependenci
 	<url>https://sdk.platon.network/nexus/content/groups/public/</url>
 </repository>
 ```
-NOTE： the latest version is 1.1.0.0
+NOTE： the latest version is 1.1.1.0
 
 > maven reference:
 ```xml
 <dependency>
     <groupId>com.platon.sdk</groupId>
     <artifactId>core</artifactId>
-    <version>1.1.0.0</version>
+    <version>1.1.1.0</version>
 </dependency>
 ```
-NOTE： the latest version is 1.1.0.0
+NOTE： the latest version is 1.1.1.0
 
 
 ### gradle
@@ -44,7 +44,7 @@ repositories {
 
 > gradle way of reference:
 ```
-compile "com.platon.sdk:core:1.1.0.0"
+compile "com.platon.sdk:core:1.1.1.0"
 ```
 
 ## Basic API Usage
